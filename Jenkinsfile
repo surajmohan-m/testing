@@ -1,1 +1,1 @@
-echo "branch 2 pipeline - modify 1"
+echo "branch 2 pipeline - modify 2"
